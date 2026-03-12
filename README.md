@@ -61,6 +61,10 @@ ML model using rainfall and terrain features to predict flood risk.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursamir0000-star&layout=compact&theme=radical)
 
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/thakursamir0000-star/blob/output/github-contribution-grid-snake.svg)
 <!--
 **thakursamir0000-star/thakursamir0000-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
