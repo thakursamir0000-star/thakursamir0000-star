@@ -6,10 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           github_user_name: thakursamir0000-star
