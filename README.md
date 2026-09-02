@@ -15,6 +15,8 @@ AI & ML Engineer | MSc AI & ML @ IIIT Lucknow | Building ML & Generative AI Appl
 
 ---
 
+---
+
 ## 👨‍💻 About Me
 
 🎓 Currently pursuing an **MSc in Artificial Intelligence & Machine Learning at IIIT Lucknow**
@@ -30,19 +32,6 @@ AI & ML Engineer | MSc AI & ML @ IIIT Lucknow | Building ML & Generative AI Appl
 📚 Strong foundation in **Machine Learning, Deep Learning, Mathematics, Probability, and Data Science**
 
 🌱 Currently focused on learning more about **production AI systems, cloud technologies, MLOps, and agentic workflows**
-
----
-
-## 💼 Experience
-
-### 🤖 AI/ML Engineering Intern | Lensara Technologies
-
-Working on AI systems related to **LLM reliability and AI governance**.
-
-* Built embedding-based similarity scoring using **Sentence Transformers and cosine similarity**
-* Worked with threshold-based approaches to identify potentially unreliable or hallucinated LLM outputs
-* Explored AI application reliability, evaluation, and human-in-the-loop workflows
-* Gained hands-on exposure to practical challenges involved in building trustworthy AI systems
 
 ---
 
@@ -173,5 +162,10 @@ https://github.com/thakursamir0000-star
 [thakursamir0000@gmail.com](mailto:thakursamir0000@gmail.com)
 
 ---
+
+## 📊 GitHub Statistics
+
+---
+
 
 
