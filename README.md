@@ -322,12 +322,5 @@ https://github.com/thakursamir0000-star
 
 ---
 
-# 📊 GitHub Statistics
-
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thakursamir0000-star\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursamir0000-star\&layout=compact\&hide_border=true)
-
----
 
 ⭐ **Building practical AI systems and continuously learning how to take AI from experimentation to production.**
