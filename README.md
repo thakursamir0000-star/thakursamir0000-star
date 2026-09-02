@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samir Thakur
 
-### MSc AI & ML Student at IIIT Lucknow | Aspiring AI Engineer
+### MSc AI & ML Student at IIIT Lucknow | Aspiring AI/ML Engineer
 
 ---
 
@@ -282,7 +282,7 @@ I have worked with multiple machine learning and deep learning approaches, inclu
 
 # 🎯 My Goal
 
-I want to grow as an **AI Engineer** who can build complete AI systems end-to-end.
+I want to grow as an **AI/ML Engineer** who can build complete AI systems end-to-end.
 
 ```text
 Problem Understanding
