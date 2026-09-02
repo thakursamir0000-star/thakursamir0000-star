@@ -174,24 +174,4 @@ https://github.com/thakursamir0000-star
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thakursamir0000-star&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Samir's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakursamir0000-star&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, building, and exploring the future of AI 🚀</i>
-</p>
