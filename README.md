@@ -150,17 +150,4 @@ Deployment & Monitoring
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakursamir0000-star&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakursamir0000-star&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-<p align="center">
-
-⭐️ Building practical AI systems and continuously learning new technologies.
-
-</p>
