@@ -1,153 +1,82 @@
-# 👋 Hi, I'm Samir Thakur
-
-### MSc AI & ML Student | IIIT Lucknow | Aspiring AI/ML Engineer
-
----
-
-## 👨‍💻 About Me
-
-🎓 Currently pursuing an **MSc in Artificial Intelligence & Machine Learning at IIIT Lucknow**
-
-🚀 Interested in building practical **AI, Machine Learning, and Generative AI applications**
-
-🌊 Worked on **FloodCast**, a hybrid ML system for streamflow forecasting across multiple river basins
-
-🤖 Exploring **LLMs, RAG pipelines, embeddings, vector databases, and AI agents**
-
-⚙️ Interested in taking AI systems from **experimentation to production**
-
-📚 Strong foundation in **Machine Learning, Deep Learning, Mathematics, Probability, and Data Science**
-
-🌱 Currently focused on learning more about **production AI systems, cloud technologies, MLOps, and agentic workflows**
+## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samir Thakur</h1>
+<h3 align="center">MSc AI & ML Student | IIIT Lucknow</h3>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌊 FloodCast — Hybrid Streamflow Forecasting System
-
-A machine learning system designed for daily riverine streamflow forecasting.
-
-* Built a hybrid approach using **LSTM and XGBoost**
-* Worked with time-series and environmental data
-* Performed data preprocessing and feature engineering
-* Experimented with different modeling approaches and evaluation strategies
-* Focused on improving predictive performance and generalization
-
-**Tech:** Python, Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy
+🎓 MSc AI & ML student at IIIT Lucknow  
+💻 Interested in Artificial Intelligence, Machine Learning, and Data Science  
+🚀 Building ML projects and deploying real-world applications  
+📊 Passionate about data-driven problem solving  
 
 ---
 
-### 📄 AI-Powered Document / PDF Question Answering
+## 🌱 Areas of Interest
 
-Built an AI application that allows users to interact with documents using natural language.
-
-* Implemented a **Retrieval-Augmented Generation (RAG)** pipeline
-* Processed and chunked document content for efficient retrieval
-* Used embeddings for semantic search
-* Retrieved relevant document context before generating responses
-* Explored vector databases and LLM integration
-
-**Tech:** Python, LLMs, RAG, Embeddings, Vector Databases
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- AI Applications
+- Data Analysis & Visualization
 
 ---
 
-### 📝 Text Summarization using BART
+## 🛠 Tech Stack
 
-Developed an abstractive text summarization system using a Transformer-based model.
+**Languages**
 
-* Worked with the **BART architecture**
-* Explored NLP preprocessing and text generation
-* Generated concise summaries while preserving important information
+Python | SQL | C++
 
-**Tech:** Python, Hugging Face Transformers, NLP, Deep Learning
+**Libraries**
 
----
+TensorFlow | PyTorch | Scikit-Learn | Pandas | NumPy
 
-## 🧠 Areas of Interest
+**Tools**
 
-* 🤖 Generative AI & Large Language Models
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧩 AI Agents & Agentic Workflows
-* 🧠 Machine Learning & Deep Learning
-* 📊 Predictive Modeling & Time-Series Forecasting
-* 🗣️ Natural Language Processing
-* ⚙️ MLOps & Production AI Systems
-* ☁️ Cloud-Based AI Applications
+Git | GitHub | Docker | Streamlit | FastAPI
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-### 💻 Languages
+🔹 **Text Summarization using BART**  
+Fine-tuned BART model for abstractive text summarization.
 
-`Python` • `SQL` • `C++`
+🔹 **Flood Risk Prediction System**  
+ML model using rainfall and terrain features to predict flood risk.
 
-### 🤖 Machine Learning & Deep Learning
-
-`PyTorch` • `TensorFlow` • `Scikit-learn` • `Hugging Face`
-
-### 📊 Data & Analytics
-
-`Pandas` • `NumPy` • `Matplotlib`
-
-### 🧠 Generative AI
-
-`LLMs` • `RAG` • `Embeddings` • `Vector Databases` • `Prompt Engineering`
-
-### ⚙️ Development & Deployment
-
-`FastAPI` • `Docker` • `Streamlit`
-
-### 🔧 Tools
-
-`Git` • `GitHub` • `Jupyter Notebook`
 
 ---
 
-## 📌 What I'm Currently Exploring
+## 📫 Connect With Me
 
-```text
-🤖 Building practical LLM applications
-🔎 Improving RAG pipelines and retrieval quality
-🧩 Learning AI agent workflows
-☁️ Exploring cloud deployment for AI systems
-⚙️ Understanding MLOps and production AI
-```
+💼 LinkedIn: https://www.linkedin.com/in/samir-thakur-829162381/
+📧 Email: thakursamir0000@gmail.com  
+🐙 GitHub: https://github.com/thakursamir0000-star
 
 ---
 
-## 🎯 My Goal
+## 📊 GitHub Stats
 
-I want to grow as an **AI Engineer** who can build complete AI systems end-to-end:
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursamir0000-star&show_icons=true&theme=radical)
 
-```text
-Problem Understanding
-        ↓
-Data Collection & Processing
-        ↓
-Model / LLM Development
-        ↓
-RAG / Agent Integration
-        ↓
-API & Application Development
-        ↓
-Deployment & Monitoring
-```
-
----
-
-## 🤝 Let's Connect
-
-💼 **LinkedIn:**
-[Samir Thakur](https://www.linkedin.com/in/samir-thakur-829162381/)
-
-🐙 **GitHub:**
-[thakursamir0000-star](https://github.com/thakursamir0000-star)
-
-📧 **Email:**
-[thakursamir0000@gmail.com](mailto:thakursamir0000@gmail.com)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursamir0000-star&layout=compact&theme=radical)
 
 
+
+<!--
+**thakursamir0000-star/thakursamir0000-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+modify it to according my all details and make it better
