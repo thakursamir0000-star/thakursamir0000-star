@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samir Thakur
 
-### MSc AI & ML Student | IIIT Lucknow | Aspiring AI Engineer
+### MSc AI & ML Student | IIIT Lucknow | Aspiring AI/ML Engineer
 
 ---
 
