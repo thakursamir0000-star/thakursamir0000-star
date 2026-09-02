@@ -163,9 +163,6 @@ https://github.com/thakursamir0000-star
 
 ---
 
-## 📊 GitHub Statistics
-
----
 
 
 
